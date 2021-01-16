@@ -1,1 +1,1 @@
-# package-html-css
+# Package HTML and CSS
